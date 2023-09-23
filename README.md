@@ -1,3 +1,6 @@
+# WARNING
+This tool is for education and as a defensive security tool. If you are a penetration tester then this tool is for you. I am not responsible for any damage resulting from misuse of this tool, because I myself have restricted everyone from accessing this tool. If you want to use this tool, please contact the developer listed to request a password key
+
 # SX-Tool
 <img src="https://raw.githubusercontent.com/AkbarWiraN/SX-Tool/main/Screenshot%202023-08-19%20062354.png" alt="my-revip" border="0">
 Hey there, fellow IT enthusiasts! Welcome to the SX-Tools repository – your one-stop destination for all things penetration testing, data analysis, and scanning. Written in the cool vibes of Python, this tool has been jazzed up into an executable (.exe) file, so you can get rollin' without any hassle.
