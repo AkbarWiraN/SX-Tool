@@ -3,7 +3,8 @@
 Hey there, fellow IT enthusiasts! Welcome to the SX-Tools repository – your one-stop destination for all things penetration testing, data analysis, and scanning. Written in the cool vibes of Python, this tool has been jazzed up into an executable (.exe) file, so you can get rollin' without any hassle.
 
 SundaXploit Tools (SX-Tool) is a tool that can support your needs, this tool is made from python3 with 2500+ lines of code which is then compiled. I guarantee that this tool is safe and clean, because I designed it myself. If you have questions or complaints, please contact the contact listed.
-key login: SundaXploit2023
+<b>key login: SundaXploit2023 (Valid until 19/09/2023)</b>
+<br><b>If you still want to use this tool, you can contact the developer contact listed</b>
 
 ## About Shell Finder
 Shell Finder is a useful tool for efficiently searching for shells by working like a dir scan. Keep in mind that this tool is still not perfect.
